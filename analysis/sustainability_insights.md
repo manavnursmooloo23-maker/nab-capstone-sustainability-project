@@ -2,6 +2,8 @@
 
 ## 🔍 Problem Context
 
+![Problem Context](../assets/slides/ProblemCase.png)
+
 Agricultural operations, particularly pig farms, face significant sustainability and cost challenges driven by inefficient waste management systems.
 
 Key issues identified:
