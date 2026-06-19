@@ -71,6 +71,19 @@ The project is **financially sustainable**, not just environmentally beneficial
 
 ---
 
+## 💰 Investment & Cost Structure
+
+![Budget Breakdown](../presentation/BudgetTimeline.png)
+
+While the project demonstrates strong financial returns, it also requires a significant upfront investment of approximately **$800K**. The majority of costs are allocated towards equipment and system installation, followed by labour and operational setup.
+
+This reflects a typical sustainability infrastructure model, where high initial capital expenditure enables long-term cost savings and revenue generation.
+
+👉 Insight: The project follows a **long-term investment model**, where upfront costs are offset by recurring financial and environmental benefits.
+
+---
+
+
 ## 🧠 Interpretation
 
 The analysis shows that sustainability initiatives in agribusiness can deliver **dual value**:
