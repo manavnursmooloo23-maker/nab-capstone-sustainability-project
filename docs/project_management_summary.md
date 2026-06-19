@@ -19,3 +19,11 @@ A clearly defined organisational structure ensures effective coordination betwee
 ![Power Interest Grid](../assets/stakeholders/PowerInterestGrid.png)
 
 Stakeholders were classified based on their level of influence and interest, enabling targeted engagement strategies and effective communication.
+
+---
+
+## 📊 Governance & Responsibilities
+
+![RACI Matrix](../assets/stakeholders/RACIMATRIX.png)
+
+A RACI framework was used to define roles and responsibilities, ensuring accountability and clarity across all project activities.
