@@ -8,6 +8,6 @@ The project follows a structured timeline from planning through to commissioning
 
 ## 👥 Project Structure
 
-![Organisation Structure](../assets/diagrams/org_structure.png)
+![Organisation Structure](../assets/diagrams/ProjectTeam.png)
 
 A clearly defined organisational structure ensures effective coordination between stakeholders, technical teams, and decision-makers throughout the project lifecycle.
