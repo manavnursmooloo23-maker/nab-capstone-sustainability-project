@@ -1,5 +1,7 @@
 # 📊 Sustainability Insights & Business Analysis
 
+This section presents a structured analysis of the sustainability challenge, supported by research insights, financial evaluation, and solution design.
+
 ## 🔍 Problem Context
 
 ![Problem Context](../presentation/ProblemCase.png)
@@ -55,6 +57,8 @@ The solution is not just cost-saving — it is **revenue-generating**
 ---
 
 ### 4. Financial Viability
+
+![Benefits](../presentation/Environmental&EconomicImpact.png)
 
 The system demonstrates strong economic feasibility:
 
